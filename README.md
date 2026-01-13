@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Baxtiyor 👋
 
-<!--
-**alievbaxtiyor/alievbaxtiyor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in modern web applications.  
+I enjoy building clean, responsive, and user-friendly interfaces using JavaScript frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎯 Frontend Developer with a focus on **Vue.js**
+- 💼 Experienced in building **admin dashboards, LMS systems, and portfolio websites**
+- 🚀 Passionate about UI/UX, performance, and scalable frontend architecture
+- 📍 Based in Uzbekistan
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- Vue.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Bootstrap, Tailwind CSS
+
+**Tools & Others:**
+- Git & GitHub
+- REST APIs
+- i18n (multi-language support)
+- Responsive & mobile-first design
+
+---
+
+## 📌 What I’m Working On
+
+- 🔧 Developing admin panels and management systems
+- 🌐 Building modern portfolio and business websites
+- 📚 Improving frontend architecture and UX patterns
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaxtiyorAliyev&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaxtiyorAliyev&layout=compact)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 GitHub: [github.com/BaxtiyorAliyev](https://github.com/BaxtiyorAliyev)
+- 🌐 Portfolio: *Coming soon*
+- 📧 Email: *your-email@example.com*
+
+---
+
+⭐️ Feel free to explore my repositories and projects!
