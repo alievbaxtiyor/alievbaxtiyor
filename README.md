@@ -42,6 +42,6 @@ I enjoy building clean, responsive, and user-friendly interfaces using JavaScrip
 
 - 💼 GitHub: [github.com/alievbaxtiyor]
 - 🌐 Portfolio: baxtiyor.dev
-- 📧 Email: *alievbakhtiyorr@example.com*
+- 📧 Email: *alievbakhtiyorr@gmail.com*
 
 
