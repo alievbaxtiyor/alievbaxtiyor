@@ -38,19 +38,10 @@ I enjoy building clean, responsive, and user-friendly interfaces using JavaScrip
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaxtiyorAliyev&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaxtiyorAliyev&layout=compact)
-
----
-
 ## 🤝 Let’s Connect
 
-- 💼 GitHub: [github.com/BaxtiyorAliyev](https://github.com/BaxtiyorAliyev)
-- 🌐 Portfolio: *Coming soon*
-- 📧 Email: *your-email@example.com*
+- 💼 GitHub: [github.com/alievbaxtiyor]
+- 🌐 Portfolio: baxtiyor.dev
+- 📧 Email: *alievbakhtiyorr@example.com*
 
----
 
-⭐️ Feel free to explore my repositories and projects!
